@@ -1,0 +1,20 @@
+// Banner
+
+.banner-container {
+  background: linear-gradient(#f5f5f5, #f5f5f5, #f5f5f5, #eee);
+
+  .banner-ads-container {
+    display: flex;
+    height: 250px;
+
+    .banner-slider {
+      width: calc(100% - 300px);
+    }
+
+    .banner-static {
+      width: 300px;
+      background-image: url(https://cdn.ouedkniss.com/medias/images//YEWGkM//oozJmAGBl0Aadvha6jg6I22AAFG3ONBbCEBSJpaS.jpg);
+      background-position: center center;
+    }
+  }
+}

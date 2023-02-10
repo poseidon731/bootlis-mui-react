@@ -1,0 +1,70 @@
+// Display
+.d-flex {
+  display: flex;
+}
+
+.d-block {
+  display: block;
+}
+
+// Align
+.align-items-center {
+  align-items: center;
+}
+
+// Justify
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+// Height, Weight
+.h-100 {
+  height: 100%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+// Margin
+.m-auto {
+  margin: auto;
+}
+
+.mt-8 {
+  margin-top: 8px !important;
+}
+
+.mr-16 {
+  margin-right: 16px !important;
+}
+
+.ml-16 {
+  margin-left: 16px !important;
+}
+
+.my-8 {
+  margin: 8px 0 !important;
+}
+
+// Padding
+.pt-8 {
+  padding-top: 8px !important;
+}
+
+.px-16 {
+  padding: 0 16px !important;
+}
+
+.p-12 {
+  padding: 12px;
+}
+
+// Cursor
+.cursor-pointer {
+  cursor: pointer;
+}
